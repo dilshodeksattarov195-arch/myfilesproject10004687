@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdecrypt",
+        "uuid": 5286936,
+        "checksum": "l4bvnc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
